@@ -22,13 +22,13 @@
 * Firebase integration
 * Clean architecture & scalable code
 
-### 🧠 Look Smart AI App
+### 🧠 .[Look Smart AI App ](https://github.com/vaibhavadhav84/Look_Smart_Ai_App)
 
 * Face analysis using ML Kit
 * AI-based styling suggestions
 * Integrated external AI APIs
 
-### 🏙️ NagrikNazar App
+### 🏙️ .[NagrikNazar App](https://github.com/vaibhavadhav84/NagrikNazarApp)
 
 * Public issue reporting platform
 * Firebase backend + real-time updates
