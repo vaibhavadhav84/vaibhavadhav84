@@ -16,7 +16,7 @@
 
 ## 🔥 Featured Projects
 
-### 🛍️ AI Powered Shop App
+### 🛍️ [AI Powered Shop App](https://github.com/vaibhavadhav84/ai_powered_shop_app)
 
 * AI-based product recommendations
 * Firebase integration
