@@ -7,7 +7,7 @@
 ## 💻 Tech Stack
 
 * Flutter & Dart
-* React.js, Node.js, Express.js
+* Node.js, Express.js
 * Firebase (Auth, Firestore, Storage)
 * REST APIs & Backend Integration
 * MySQL & MongoDB
