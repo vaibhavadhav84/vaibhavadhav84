@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Vaibhav Adhav
 
-<!--
-**vaibhavadhav84/vaibhavadhav84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Full Stack Developer (MERN)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+* Flutter & Dart
+* React.js, Node.js, Express.js
+* Firebase (Auth, Firestore, Storage)
+* REST APIs & Backend Integration
+* MySQL & MongoDB
+
+---
+
+## 🔥 Featured Projects
+
+### 🛍️ AI Powered Shop App
+
+* AI-based product recommendations
+* Firebase integration
+* Clean architecture & scalable code
+
+### 🧠 Look Smart AI App
+
+* Face analysis using ML Kit
+* AI-based styling suggestions
+* Integrated external AI APIs
+
+### 🏙️ NagrikNazar App
+
+* Public issue reporting platform
+* Firebase backend + real-time updates
+
+---
+
+## 📊 GitHub Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavadhav84\&show_icons=true\&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+* Portfolio: https://vaibhavadhav.netlify.app/
+* LinkedIn: https://www.linkedin.com/in/vaibhavadhav84/
