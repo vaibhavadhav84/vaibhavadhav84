@@ -1,6 +1,18 @@
 # Hi , I'm Vaibhav Adhav
 
-Flutter Developer | Full Stack Developer (MERN)
+Flutter Developer | Mobile App Specialist | Firebase & Node.js
+
+Flutter Developer specializing in building scalable mobile applications with Firebase and Node.js backend systems.
+I focus on creating real-world, production-ready apps with clean architecture, responsive UI, and efficient backend integrations.
+
+---
+
+What I Do
+
+• Develop cross-platform mobile apps using Flutter
+• Build scalable backend systems using Node.js & Firebase
+• Integrate AI features into mobile applications
+• Design clean and maintainable architectures
 
 ---
 
@@ -22,13 +34,13 @@ Flutter Developer | Full Stack Developer (MERN)
 * Firebase integration
 * Clean architecture & scalable code
 
-###  .[Look Smart AI App ](https://github.com/vaibhavadhav84/Look_Smart_Ai_App)
+###  [Look Smart AI App ](https://github.com/vaibhavadhav84/Look_Smart_Ai_App)
 
 * Face analysis using ML Kit
 * AI-based styling suggestions
 * Integrated external AI APIs
 
-###  .[NagrikNazar App](https://github.com/vaibhavadhav84/NagrikNazarApp)
+###  [NagrikNazar App](https://github.com/vaibhavadhav84/NagrikNazarApp)
 
 * Public issue reporting platform
 * Firebase backend + real-time updates
