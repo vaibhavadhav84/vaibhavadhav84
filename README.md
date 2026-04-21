@@ -1,10 +1,10 @@
-# Hi 👋, I'm Vaibhav Adhav
+# Hi , I'm Vaibhav Adhav
 
-🚀 Flutter Developer | Full Stack Developer (MERN)
+Flutter Developer | Full Stack Developer (MERN)
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 * Flutter & Dart
 * Node.js, Express.js
@@ -14,28 +14,28 @@
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🛍️ [AI Powered Shop App](https://github.com/vaibhavadhav84/ai_powered_shop_app)
+###  [AI Powered Shop App](https://github.com/vaibhavadhav84/ai_powered_shop_app)
 
 * AI-based product recommendations
 * Firebase integration
 * Clean architecture & scalable code
 
-### 🧠 .[Look Smart AI App ](https://github.com/vaibhavadhav84/Look_Smart_Ai_App)
+###  .[Look Smart AI App ](https://github.com/vaibhavadhav84/Look_Smart_Ai_App)
 
 * Face analysis using ML Kit
 * AI-based styling suggestions
 * Integrated external AI APIs
 
-### 🏙️ .[NagrikNazar App](https://github.com/vaibhavadhav84/NagrikNazarApp)
+###  .[NagrikNazar App](https://github.com/vaibhavadhav84/NagrikNazarApp)
 
 * Public issue reporting platform
 * Firebase backend + real-time updates
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavadhav84\&show_icons=true\&theme=radical)
 
